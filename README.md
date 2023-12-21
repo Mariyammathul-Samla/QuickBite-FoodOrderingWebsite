@@ -1,4 +1,4 @@
-# QuickBite-FoodOrderingWebsite# QuickBite Online Food Order
+# QuickBite-FoodOrderingWebsite
 
 ## Overview
 
